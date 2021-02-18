@@ -1,0 +1,13 @@
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 17 Работа с файлами\IOPractice\IOPractice\bin\Debug\netcoreapp3.1\IOPractice.exe
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 17 Работа с файлами\IOPractice\IOPractice\bin\Debug\netcoreapp3.1\IOPractice.deps.json
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 17 Работа с файлами\IOPractice\IOPractice\bin\Debug\netcoreapp3.1\IOPractice.runtimeconfig.json
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 17 Работа с файлами\IOPractice\IOPractice\bin\Debug\netcoreapp3.1\IOPractice.runtimeconfig.dev.json
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 17 Работа с файлами\IOPractice\IOPractice\bin\Debug\netcoreapp3.1\IOPractice.dll
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 17 Работа с файлами\IOPractice\IOPractice\bin\Debug\netcoreapp3.1\IOPractice.pdb
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 17 Работа с файлами\IOPractice\IOPractice\obj\Debug\netcoreapp3.1\IOPractice.csprojAssemblyReference.cache
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 17 Работа с файлами\IOPractice\IOPractice\obj\Debug\netcoreapp3.1\IOPractice.csproj.CoreCompileInputs.cache
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 17 Работа с файлами\IOPractice\IOPractice\obj\Debug\netcoreapp3.1\IOPractice.AssemblyInfoInputs.cache
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 17 Работа с файлами\IOPractice\IOPractice\obj\Debug\netcoreapp3.1\IOPractice.AssemblyInfo.cs
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 17 Работа с файлами\IOPractice\IOPractice\obj\Debug\netcoreapp3.1\IOPractice.dll
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 17 Работа с файлами\IOPractice\IOPractice\obj\Debug\netcoreapp3.1\IOPractice.pdb
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 17 Работа с файлами\IOPractice\IOPractice\obj\Debug\netcoreapp3.1\IOPractice.genruntimeconfig.cache
